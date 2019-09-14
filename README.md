@@ -6,7 +6,7 @@ ALF의 설명과 실습을 하는 PPT
 OWASP TOP10에 대해서 설명하는 PPT
 ## Puzzles(네트워크 포렌식) 풀이
 네트워크 포렌식 문제 풀이
-## Snort 발표
+## Snort 발표자료
 snort에 대한 개념을 발표한 
 ## Morse Translator
 문장을 입력하면 그에 맞는 모스부호 WAV파일이 나오는 변환기을 Python으로 구현
